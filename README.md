@@ -1,4 +1,4 @@
-# vue-webflux-websocket-simple
+# AfreecaTV Live Rank
 
 ## Project setup
 ```
@@ -25,5 +25,3 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
